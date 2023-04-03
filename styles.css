@@ -1,0 +1,11 @@
+.container{
+	width:200px;
+	background-color:purple;
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+	padding: 10px;
+	border-style:solid;
+	border-left-color: green;
+	border-left-width: 5px;
+		}
