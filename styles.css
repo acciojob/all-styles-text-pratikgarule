@@ -1,15 +1,12 @@
-.main{
+main{
 
-		border:none;
-}
-.container{
 	width:200px;
 	background-color:rgb(128, 0, 128);
 	font-size:20px;
 	text-decoration:underline;
 	padding: 10px;
-	border-style:solid;
+	border-left-style:solid;
 	border-left-color:rgb(0, 128, 0);
 	border-left-width: 5px;
-		
+		text-decoration-color: white;
 }
